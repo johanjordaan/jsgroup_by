@@ -1,0 +1,16 @@
+{
+    "name": "group_by"
+  , "version": "0.0.1"
+  , "description"    : "Extension to Object and Array to allow for easy grouping."
+  , "keywords"       : ["util"]
+  , "url"            : "https://github.com/whoatemydomain/jsgroup_by"
+  , "author"         : "Johan Jordaan <johan@whoatemydomain.co.za>"
+  , "contributors"   : []
+  , "private": false
+  , "dependencies": {
+  }
+  , "devDependencies": {
+      "chai": "*"
+    , "mocha": "*"
+  }
+}
